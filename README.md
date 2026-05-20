@@ -1,4 +1,5 @@
 Popis souborů
+
 providers-9.tf obsahuje AWS provider s regionem z proměnné a navazuje na původní strukturu projektu.
 
 variables-13.tf definuje region, název projektu a CIDR rozsahy pro VPC i všechny čtyři subnety, protože oproti původní verzi už síť nevychází z existující VPC.
