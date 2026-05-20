@@ -1,4 +1,8 @@
-Popis souborů
+http://lekce7-nginx-demo-alb-1629758711.eu-central-1.elb.amazonaws.com/
+
+--------------------------------------------------------------------------
+
+Popis souborů:
 
 providers-9.tf obsahuje AWS provider s regionem z proměnné a navazuje na původní strukturu projektu.
 
